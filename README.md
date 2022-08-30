@@ -11,7 +11,7 @@ I'm interested in computer software and hardware, specifically in the finance an
   - **Jason Zhang CV**: Personal website
 
 - 🔭 I’m currently working on:
-  - Seeking inspiration for cool personal project ideas
+  - Seeking inspiration for cool personal projects
 
 - 🌱 I’m currently learning 
   - **JavaScript**
