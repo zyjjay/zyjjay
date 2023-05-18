@@ -15,9 +15,7 @@ I'm interested in computer software and hardware, specifically in the finance an
   - Seeking inspiration for cool personal projects
 
 - 🌱 I’m currently learning 
-  - **JavaScript**
-  - **React**
-  - **How to build a mechanical keyboard**
+  - **Go**
 
 - 📫 How to reach me:
   - **Email**: jasonyj.zhang@mail.utoronto.ca
