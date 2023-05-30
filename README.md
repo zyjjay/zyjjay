@@ -16,6 +16,7 @@ I'm interested in computer software and hardware, specifically in the finance an
 
 - 🌱 I’m currently learning 
   - **Go**
+  - **Kubernetes**
 
 - 📫 How to reach me:
   - **Email**: jasonyj.zhang@mail.utoronto.ca
