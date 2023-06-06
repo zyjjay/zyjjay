@@ -2,7 +2,7 @@
 
 ### I'm Jason, a third-year `Computer Engineering` student at the University of Toronto 🇨🇦
 
-I'm interested in computer software and hardware, specifically in the finance and gaming industries!
+Right now, I am on my internship as a SWE at Red Hat, working on Advanced Cluster Management.
 
 - 💡 What I've worked on:
   - **NFTracker**: React web app to retrieve data about NFTs through the OpenSea API 
