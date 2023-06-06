@@ -11,7 +11,7 @@ I'm interested in computer software and hardware, specifically in the finance an
   - **Jason Zhang CV**: Personal website
 
 - 🔭 I’m currently working on:
-  - My internship!
+  - My internship
 
 - 🌱 I’m currently learning 
   - **Go**
@@ -21,10 +21,11 @@ I'm interested in computer software and hardware, specifically in the finance an
   - **Email**: jasonyj.zhang@mail.utoronto.ca
   - **LinkedIn**: https://www.linkedin.com/in/zyj-jason/
   
-- ☄️ To wind down, I enjoy:
+- ☄️ Outside of work, I enjoy:
   - Video games
   - Volleyball
+  - Basketball
   - Reading
   - Music
 
-Feel feel to reach out! :)
+Feel feel to reach out :)
