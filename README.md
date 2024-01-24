@@ -29,3 +29,4 @@ I am currently on my internship as a SWE at Red Hat, working on cluster manageme
   - Music
 
 Feel feel to reach out :)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyjjay)](https://github.com/anuraghazra/github-readme-stats)
