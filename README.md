@@ -5,10 +5,10 @@
 I am currently on my internship as a SWE at Red Hat, working on cluster management and security.
 
 - 💡 What I've worked on:
-  - **NFTracker**: React web app to retrieve data about NFTs through the OpenSea API 
+  - **NFTracker**: React web app to retrieve and display data about NFTs using the OpenSea API 
   - **Spacetagram**: Instagram clone for astronomy pictures using NASA's APOD API
-  - **Mappr**: Google Maps clone made with OSM API (backend\map data) and GTK (frontend\GUI)
-  - **Jason Zhang CV**: Personal website
+  - **Mappr**: Google Maps clone made with OpenStreetMap API and GTK
+  - **Jason Zhang CV**: Personal portfolio website
 
 - 🔭 I’m currently working on:
   - My internship
