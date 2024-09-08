@@ -1,8 +1,10 @@
 ## Hey! 👋
 
-### I'm Jason, a third-year `Computer Engineering` student at the University of Toronto 🇨🇦
+### I'm Jason, a fourth-year `Computer Engineering` student at the University of Toronto 🇨🇦
 
-I am currently on my internship as a SWE at Red Hat, working on cluster management and security.
+I just wrapped up my internship as a SWE at Red Hat, where I worked on cluster management and security. I will return back to school for my final year at UofT this fall, where I'll be exploring my interest in the field of computer systems, machine learning, and networking.
+
+Seeking 2025 opportunities so feel free to reach out!
 
 - 💡 What I've worked on:
   - **NFTracker**: React web app to retrieve and display data about NFTs using the OpenSea API 
@@ -27,5 +29,3 @@ I am currently on my internship as a SWE at Red Hat, working on cluster manageme
   - Basketball
   - Gym
   - Music
-
-Feel feel to reach out :)
