@@ -7,7 +7,7 @@ I just wrapped up my internship as a SWE at Red Hat, where I worked on cluster m
 If any of the things I've worked on are of interest, feel free to reach out! I'm currently seeking 2025 opportunities.
 
 - 💡 What I've worked on:
-  - **SWE @ Red Hat**:
+  - **Projects @ Red Hat**:
     - Collaborated on the development of a new event-driven controller to streamline the installation process and enhance the observability of Community Kubernetes Operators across thousands of clusters
     - Implemented secure serving of Prometheus metrics via SSL/TLS, and handled infrastructure changes such as routing due to the deprecation of the sidecar proxy
     - Spearheaded the effort to extend our GitOps capabilities by adding support for Docker image overrides, allowing integration tests to be run on every PR across 4+ repositories to catch failures before build stage 
