@@ -20,8 +20,8 @@ If any of the things I've worked on are of interest, feel free to reach out! I'm
   - My internship
 
 - 🌱 I’m currently learning 
-  - **Go**
-  - **Kubernetes**
+  - Go
+  - Kubernetes
 
 - 📫 How to reach me:
   - **Email**: jasonyj.zhang@mail.utoronto.ca
