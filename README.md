@@ -1,13 +1,11 @@
 ## Hey! 👋
 
-### I'm Jason, a fourth-year `Computer Engineering` student at the University of Toronto 🇨🇦
-
-I just wrapped up my internship as a SWE at Red Hat, where I worked on cluster management and security. I will return back to school for my final year at UofT this fall, where I'll be exploring my interest in the fields of computer systems, machine learning, and networking.
-
-If any of the things I've worked on are of interest, feel free to reach out! I'm currently seeking 2025 opportunities.
+### I'm Jason, a Software Development Engineer at Amazon
 
 - 💡 What I've worked on:
-  - **Projects @ Red Hat**:
+  - **Projects @ Amazon - eCommerce Foundations**:
+    - [WIP]
+  - **Projects @ Red Hat - Advanced Cluster Management**:
     - Collaborated on the development of a new event-driven controller to streamline the installation process and enhance the observability of Community Kubernetes Operators across thousands of clusters
     - Implemented secure serving of Prometheus metrics via SSL/TLS, and handled infrastructure changes such as routing due to the deprecation of the sidecar proxy
     - Spearheaded the effort to extend our GitOps capabilities by adding support for Docker image overrides, allowing integration tests to be run on every PR across 4+ repositories to catch failures before build stage 
@@ -17,19 +15,22 @@ If any of the things I've worked on are of interest, feel free to reach out! I'm
   - **Jason Zhang CV**: Personal portfolio website
 
 - 🔭 I’m currently working on:
-  - My internship
+  - Distributed ML runtime w/ checkpointing
+  - Training for my 10k in April
 
 - 🌱 I’m currently learning 
   - Go
   - Kubernetes
+  - AWS
+  - DJ-ing
 
 - 📫 How to reach me:
-  - **Email**: jasonyj.zhang@mail.utoronto.ca
+  - **Email**: jasonzhang.zyj@gmail.com
   - **LinkedIn**: https://www.linkedin.com/in/zyj-jason/
   
 - ☄️ Outside of work, I enjoy:
   - Video games
-  - Volleyball
+  - Running
   - Basketball
   - Gym
   - Music
