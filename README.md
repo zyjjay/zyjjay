@@ -3,6 +3,7 @@
 ### I'm Jason, a Software Development Engineer at Amazon
 
 - 💡 What I've worked on:
+  - **Projects @ AWS - Simple Workflow**:
   - **Projects @ Amazon - eCommerce Foundations**:
     - [WIP]
   - **Projects @ Red Hat - Advanced Cluster Management**:
