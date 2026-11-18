@@ -4,10 +4,12 @@
 
 - 💡 What I've worked on:
   - **Projects @ AWS - Simple Workflow**:
+      - RAM reduction across production fleet
+      - Cell build automation
+      - Region Expansion
   - **Projects @ Amazon - eCommerce Foundations**:
-    - RAM reduction across production fleet
-    - Cell build automation
-    - Region Expansion
+      - Notification-as-a-Service integration
+      - Content management system full-stack migration
   - **Projects @ Red Hat - Advanced Cluster Management**:
     - Collaborated on the development of a new event-driven controller to streamline the installation process and enhance the observability of Community Kubernetes Operators across thousands of clusters
     - Implemented secure serving of Prometheus metrics via SSL/TLS, and handled infrastructure changes such as routing due to the deprecation of the sidecar proxy
